@@ -3,9 +3,9 @@
                 <title>งานที่ 1</title>
         </head>
         <body bgcolor="710016">
-                page1ธรรมดา
+                <h1>page1ธรรมดา</h1>
                 <br>
                 <hr>
-                <b>page1 หนา</b>
+                <h1><b>page1 หนา</b></h1>
         </body>
 </html>
