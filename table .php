@@ -22,7 +22,7 @@
                                 <td>2</td>
                                 <td>กานต์ธีรา วัชรทัศนกุล</td>
                                 <td>เนย</td>
-                                <td><img src="https://www.thebangkokinsight.com/wp-content/uploads/2021/02/batch_113-1.jpg" width="130px"></td>
+                                <td><img src="https://www.thebangkokinsight.com/wp-content/uploads/2021/02/batch_113-1.jpg" width="140px"></td>
                                 <td><a href="https://twitter.com/bnk48official">twitter</a></td>
                         </tr>
                         <tr>
