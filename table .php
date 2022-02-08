@@ -9,7 +9,7 @@
                     <th>two</th>
                   </tr>
                   <tr>
-                    <td><img.src="IMG_20210105_175435"</td>
+                    <td><img.src="IMG_20210105_175435" width="130px"</td>
                     <td>two</td>
                   </tr>
                 </table>
