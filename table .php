@@ -8,6 +8,10 @@
                     <th>one</th>
                     <th>two</th>
                   </tr>
+                  <tr>
+                    <td>one</td>
+                    <td>two</td>
+                  </tr>
                 </table>
         </body>
 </html>
