@@ -2,7 +2,7 @@
         <head>
                 <title>งานที่ 3</title>
         </head>
-        <body bgcolor="7cffea">
+        <body bgcolor="F75353">
                 <table border="1">
                   <tr>
                     <th>one</th>
