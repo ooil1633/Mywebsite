@@ -29,7 +29,7 @@
                                 <td>3</td>
                                 <td>พัศชนันท์ เจียจิรโชติ</td>
                                 <td>อร</td>
-                                <td><img src="https://www.siamzone.com/ig/media/4636727204/2663274736320250159-1.jpg" width="140px"></td>
+                                <td><img src="https://www.online-idol.com/wp-content/uploads/2018/02/p-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%B4-%E0%B8%AD%E0%B8%A3%E0%B8%AD%E0%B8%B8%E0%B9%8B%E0%B8%87-%E0%B8%AD%E0%B8%A3-BNK48.jpg" width="140px"></td>
                                 <td><a href="https://twitter.com/bnk48official">twitter</a></td>
                         </tr>
                         <tr>
