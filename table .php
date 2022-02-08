@@ -5,8 +5,8 @@
         <body bgcolor="7cffea">
                 <table border="1">
                   <tr>
-                    <td>one</td>
-                    <td>two</td>
+                    <th>one</th>
+                    <th>two</th>
                   </tr>
                 </table>
         </body>
