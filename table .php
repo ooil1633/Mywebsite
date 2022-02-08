@@ -29,7 +29,7 @@
                                 <td>3</td>
                                 <td>พัศชนันท์ เจียจิรโชติ</td>
                                 <td>อร</td>
-                                <td><img src="https://www.siamzone.com/ig/media/4636727204/2663274736320250159-1.jpg" width="130px"></td>
+                                <td><img src="https://www.siamzone.com/ig/media/4636727204/2663274736320250159-1.jpg" width="140px"></td>
                                 <td><a href="https://twitter.com/bnk48official">twitter</a></td>
                         </tr>
                         <tr>
