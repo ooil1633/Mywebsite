@@ -3,7 +3,7 @@
 		<title> css </title>
 	</head>
 	<body>
-		<p style="color=white;"> eiei </p>
+		<p style="color:blue;"> eiei </p>
     
 	</body>
 </html>
