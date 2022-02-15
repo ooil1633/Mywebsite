@@ -3,7 +3,7 @@
 		<title> css </title>
 		<style>
 			body{
-				bgcolor: fbe8f1;
+				background-color: fbe8f1;
 			}
 			h1{
 				color: b0ffff;
