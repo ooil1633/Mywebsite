@@ -5,17 +5,17 @@
 			body{
 				background-color: fbe8f1;
 			}
-			h1{
-				color: b0ffff;
+			#text1{
+				color: ff4b6b;
 			}
 			
-			h2{
+			#text2{
 				color: b0ffff;
 			}
 		</style>
 	</head>
 	<body>
-		<h1> eiei </h1>
-		<h2> eiei </h2>
+		<h1 id="text1"> namneungnoey </h1>
+		<h1 id="text2"> pfg </h1>
 	</body>
 </html>
