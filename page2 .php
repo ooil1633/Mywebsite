@@ -3,8 +3,6 @@
 		<title> css </title>
 		<style>
 			.nnn{
-				width: 800px;
-				height: 380px;
 				background-color: ffd3db;
 			}
 			#box1{
