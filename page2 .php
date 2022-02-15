@@ -2,7 +2,7 @@
 	<head>
 		<title> css </title>
 		<style>
-			.class{
+			.nnn{
 				width: 800px;
 				height: 380px;
 				background-color: ffd3db;
