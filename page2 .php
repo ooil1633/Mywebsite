@@ -7,7 +7,7 @@
 			}
 			#box1{
 				width: 800px;
-				height: 380px;
+				height: 350px;
 				color: ff5;
 				background-color: c8ecdc;
 			}
