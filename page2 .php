@@ -9,6 +9,7 @@
 			h2{
 				color: b0ffff;
 			}
+		</style>
 	</head>
 	<body>
 		<h1> eiei </h1>
