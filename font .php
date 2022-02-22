@@ -6,7 +6,7 @@
   <style>
     @font-face{
       font-family: myFont1;
-      src: url(SOV_sorm2496.woff)
+      src: url(DM Jacaranda Regular.woff)
     }
   </style>
 </head>
