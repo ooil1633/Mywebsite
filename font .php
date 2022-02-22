@@ -8,9 +8,9 @@
       font-family: myFont1;
       src: url(DM Jacaranda Regular.woff)
     }
-	  #font1{
-		 font-family: myFont1;
-	  }
+    #font1{
+      font-family: myFont1;
+    }
   </style>
 </head>
 <body>
