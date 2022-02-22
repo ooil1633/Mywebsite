@@ -8,12 +8,20 @@
       font-family: myFont1;
       src: url(MiPancake.woff)
     }
+     @font-face{
+      font-family: myFont2;
+      src: url(MiPancake.woff)
+    }
     #font1{
       font-family: myFont1;
+    }
+    #font2{
+      font-family: myFont2;
     }
   </style>
 </head>
 <body>
-  <h1 id="font1">เว็บไซต์ของฉัน</h1>
+  <h1 id="font1">Natnicha Khotsa M.4/13 27</h1>
+  <h1 id="font2">Natnicha Khotsa M.4/13 27</h1>
 </body>
 </html>
