@@ -10,7 +10,7 @@
     }
      @font-face{
       font-family: myFont2;
-      src: url(DM Weekend Regular.woff)
+      src: url(Lpj_font1-Regular.woff)
     }
     #font1{
       font-family: myFont1;
