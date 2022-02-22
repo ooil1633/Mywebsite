@@ -10,7 +10,7 @@
     }
      @font-face{
       font-family: myFont2;
-      src: url(MiPancake.woff)
+      src: url(DM Weekend Regular.woff)
     }
     #font1{
       font-family: myFont1;
