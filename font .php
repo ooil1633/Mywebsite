@@ -4,7 +4,9 @@
 	<meta charset="utf-8">
 	<title>กำหนดรูปแบบตัวอักษร</title>
   <style>
-    background-color: #FAEBD7;
+    body{
+      background-color: #FAEBD7;
+    }
     @font-face{
       font-family: myFont1;
       src: url(MiPancake.woff)
