@@ -6,7 +6,7 @@
   <style>
     @font-face{
       font-family: myFont1;
-      src: url(DM Jacaranda Regular.woff)
+      src: url(MiPancake.woff)
     }
     #font1{
       font-family: myFont1;
